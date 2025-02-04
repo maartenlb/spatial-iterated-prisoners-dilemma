@@ -1,7 +1,7 @@
 # Spatial Iterated Prisoner's Dilemma.
 Parameterized Netlogo model of the [Spatial Iterated Prisoner’s Dilemma](https://faculty.washington.edu/majeski/asymmetric.isq.pdf). It contains all the basic features and boasts a few extra features.
 
-![Model](https://github.com/maartenlb/spatial-iterated-prisoners-dilemma/blob/main/Capture.JPG)
+![Model](https://github.com/maartenlb/spatial-iterated-prisoners-dilemma/blob/main/imgs/Capture.JPG)
 
 ## WHAT IS IT?
 
@@ -12,6 +12,8 @@ This is a Netlogo model of the Iterated Prisoner's Dilemma. It contains all the 
 - Option to visualize the patches by strategy changes. A patch will darken its color by 5% whenever it changes strategy, so darker patches are the ones that have changed the most.
 
 - A button called Carpet which will visualize a 'Persian carpet' dynamic which implies the model updates in a synchronous manner.
+
+![Carpet](https://github.com/maartenlb/spatial-iterated-prisoners-dilemma/blob/main/imgs/Carpet.JPG)
 
 Note that world wrapping is on and the world size is 121x121.
 
